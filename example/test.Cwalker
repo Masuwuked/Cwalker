@@ -1,0 +1,3 @@
+cvar name = "jhon boy";
+
+printw(name);
